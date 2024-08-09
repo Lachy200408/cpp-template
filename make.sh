@@ -1,0 +1,1 @@
+g++ ./main.cpp ./*/*.cpp ./*/*/*.cpp -o ./template
